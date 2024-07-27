@@ -15,12 +15,12 @@ The Library Management System is a Java application designed to help librarians 
 
 The project is organized into several packages:
 
-- **`com.library.management.model`**: Contains data model classes.
-- **`com.library.management.service`**: Contains service classes and interfaces.
-- **`com.library.management.process`**: Contains classes related to the lending process.
-- **`com.library.management.management`**: Contains classes related to inventory management.
-- **`com.library.management.main`**: Contains the main application class.
+- **`org.library.management.model`**: Contains data model classes.
+- **`org.library.management.service`**: Contains service classes and interfaces.
+- **`org.library.management.process`**: Contains classes related to the lending process.
+- **`org.library.management.management`**: Contains classes related to inventory management.
+- **`org.library.management.main`**: Contains the main application class.
 
 
 
-![img.png](img.png)
+![image](https://github.com/user-attachments/assets/c5fa0243-0c40-45fc-a716-a6c4b4b8a16f)
